@@ -1,0 +1,1 @@
+To test if Github SCM integrates with Jenkins Integration Server
